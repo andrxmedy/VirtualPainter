@@ -36,7 +36,8 @@ Finger detection is performed by comparing hand landmark positions provided by M
 - Python  
 - OpenCV  
 - MediaPipe Hands  
-- NumPy  
+- NumPy
+- Blender
 
 
 ## Running the project
